@@ -13,9 +13,6 @@
 <a href="https://github.com/rajiul93" target="_blank" rel="noopener noreferrer">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://x.com/rajiul93" target="_blank" rel="noopener noreferrer">
-  <img alt="X (Twitter)" src="https://img.shields.io/badge/X-0B0F14?style=for-the-badge&logo=x&logoColor=white" />
-</a>
 <a href="https://t.me/rajiul93" target="_blank" rel="noopener noreferrer">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -26,8 +23,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://redux.js.org/" target="_blank"> <img align="left" alt="Redux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"> </a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img align="left" alt="Zustand" height ="42px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico"> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibviCyTjUU95UuqcJ5xIyDlU2X2PqfKb1PA&s](https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="42px"/> </a>
 <br>
