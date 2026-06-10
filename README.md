@@ -1,7 +1,8 @@
 ## Hey there 👋, I'm [RAJIUL ISLAM!](https://github.com/iampavangandhi/)
 
-<p>As a MERN developers create user interfaces using HTML, CSS, and JavaScript and React-JS also Next-JS to ensure seamless and engaging web experiences</p>
-<p>I will work closely with you to understand your project requirements, and deliver a customized solution than meets your specific needs. My development process is focused on creating visually appealing , user-friendly, and highly functional</p>
+<p>As a <strong>MERN developer</strong>, I build full-stack web applications using MongoDB, Express, React, and Node.js. I also work with <strong>React Native</strong> to create cross-platform mobile apps.</p>
+<p>I create user interfaces with HTML, CSS, JavaScript, React, and Next.js to deliver seamless and engaging web experiences.</p>
+<p>I will work closely with you to understand your project requirements, and deliver a customized solution that meets your specific needs. My development process is focused on creating visually appealing, user-friendly, and highly functional products.</p>
 <p>Before starting any project, I make a proper plan first. Then I work on the UI design. After that, I prepare the server setup and data structure. Finally, I start coding the project.
 </p>
 <a href="https://www.facebook.com/mohammad.rajiulislam" target="_blank" rel="noopener noreferrer">
@@ -16,6 +17,9 @@
 <a href="https://t.me/rajiul93" target="_blank" rel="noopener noreferrer">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+<a href="https://wa.me/8801986570093" target="_blank" rel="noopener noreferrer">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 ### Languages and Tools:
 
@@ -23,20 +27,21 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://reactnative.dev/" target="_blank"> <img align="left" alt="React Native" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg"> </a>
 <a href="https://redux.js.org/" target="_blank"> <img align="left" alt="Redux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"> </a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img align="left" alt="Zustand" height ="42px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/favicon.ico"> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Express" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibviCyTjUU95UuqcJ5xIyDlU2X2PqfKb1PA&s](https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="42px"/> </a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" height="42px"/> </a>
 <br>
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 ### About me
 
-- 🛠 &nbsp; Building production-ready web apps with **React** and **Next.js**.
+- 🛠 &nbsp; Building production-ready web apps with **React** and **Next.js**, and mobile apps with **React Native**.
 - 🚀 &nbsp; Focused on **TypeScript**, **Tailwind CSS**, and modern UI/UX patterns.
 - ✅ &nbsp; Strong attention to clean architecture, performance, and maintainable code.
-- 📫 &nbsp; Contact: **developer.rajiul@gmail.com**
+- 📫 &nbsp; Contact: **developer.rajiul@gmail.com** | WhatsApp: **+88 01986570093**
 
 ### Interests
 
