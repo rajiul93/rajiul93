@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [RAJIUL ISLAM!](https://github.com/iampavangandhi/)
 
-<p>As a front-end developers create user interfaces using HTML, CSS, and JavaScript and React-JS also Next-JS to ensure seamless and engaging web experiences</p>
+<p>As a MERN developers create user interfaces using HTML, CSS, and JavaScript and React-JS also Next-JS to ensure seamless and engaging web experiences</p>
 <p>I will work closely with you to understand your project requirements, and deliver a customized solution than meets your specific needs. My development process is focused on creating visually appealing , user-friendly, and highly functional</p>
 <p>Before starting any project, I make a proper plan first. Then I work on the UI design. After that, I prepare the server setup and data structure. Finally, I start coding the project.
 </p>
